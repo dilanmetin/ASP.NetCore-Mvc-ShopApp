@@ -1,0 +1,649 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\dilan\\OneDrive\\Masaüstü\\PROJELER\\ShopApp\\ShopApp.WebUI\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\ShopApp.WebUI.bundle.scp.css",
+      "PackagePath": "staticwebassets\\ShopApp.WebUI.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\dilan\\OneDrive\\Masaüstü\\PROJELER\\ShopApp\\ShopApp.WebUI\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\dilan\\OneDrive\\Masaüstü\\PROJELER\\ShopApp\\ShopApp.WebUI\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\dilan\\OneDrive\\Masaüstü\\PROJELER\\ShopApp\\ShopApp.WebUI\\wwwroot\\img\\1.jpg",
+      "PackagePath": "staticwebassets\\img\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dilan\\OneDrive\\Masaüstü\\PROJELER\\ShopApp\\ShopApp.WebUI\\wwwroot\\img\\10.jpg",
+      "PackagePath": "staticwebassets\\img\\10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dilan\\OneDrive\\Masaüstü\\PROJELER\\ShopApp\\ShopApp.WebUI\\wwwroot\\img\\11.jpg",
+      "PackagePath": "staticwebassets\\img\\11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dilan\\OneDrive\\Masaüstü\\PROJELER\\ShopApp\\ShopApp.WebUI\\wwwroot\\img\\12.jpg",
+      "PackagePath": "staticwebassets\\img\\12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dilan\\OneDrive\\Masaüstü\\PROJELER\\ShopApp\\ShopApp.WebUI\\wwwroot\\img\\13.jpg",
+      "PackagePath": "staticwebassets\\img\\13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dilan\\OneDrive\\Masaüstü\\PROJELER\\ShopApp\\ShopApp.WebUI\\wwwroot\\img\\2.jpg",
+      "PackagePath": "staticwebassets\\img\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dilan\\OneDrive\\Masaüstü\\PROJELER\\ShopApp\\ShopApp.WebUI\\wwwroot\\img\\3.jpg",
+      "PackagePath": "staticwebassets\\img\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dilan\\OneDrive\\Masaüstü\\PROJELER\\ShopApp\\ShopApp.WebUI\\wwwroot\\img\\4.jpg",
+      "PackagePath": "staticwebassets\\img\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dilan\\OneDrive\\Masaüstü\\PROJELER\\ShopApp\\ShopApp.WebUI\\wwwroot\\img\\5.jpg",
+      "PackagePath": "staticwebassets\\img\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dilan\\OneDrive\\Masaüstü\\PROJELER\\ShopApp\\ShopApp.WebUI\\wwwroot\\img\\6.jpg",
+      "PackagePath": "staticwebassets\\img\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dilan\\OneDrive\\Masaüstü\\PROJELER\\ShopApp\\ShopApp.WebUI\\wwwroot\\img\\7.jpg",
+      "PackagePath": "staticwebassets\\img\\7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dilan\\OneDrive\\Masaüstü\\PROJELER\\ShopApp\\ShopApp.WebUI\\wwwroot\\img\\8.jpg",
+      "PackagePath": "staticwebassets\\img\\8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dilan\\OneDrive\\Masaüstü\\PROJELER\\ShopApp\\ShopApp.WebUI\\wwwroot\\img\\9.jpg",
+      "PackagePath": "staticwebassets\\img\\9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dilan\\OneDrive\\Masaüstü\\PROJELER\\ShopApp\\ShopApp.WebUI\\wwwroot\\img\\card-chip.png",
+      "PackagePath": "staticwebassets\\img\\card-chip.png"
+    },
+    {
+      "Id": "C:\\Users\\dilan\\OneDrive\\Masaüstü\\PROJELER\\ShopApp\\ShopApp.WebUI\\wwwroot\\img\\header.jpg",
+      "PackagePath": "staticwebassets\\img\\header.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dilan\\OneDrive\\Masaüstü\\PROJELER\\ShopApp\\ShopApp.WebUI\\wwwroot\\img\\logo.jpg",
+      "PackagePath": "staticwebassets\\img\\logo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dilan\\OneDrive\\Masaüstü\\PROJELER\\ShopApp\\ShopApp.WebUI\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\dilan\\OneDrive\\Masaüstü\\PROJELER\\ShopApp\\ShopApp.WebUI\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\dilan\\OneDrive\\Masaüstü\\PROJELER\\ShopApp\\ShopApp.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\dilan\\OneDrive\\Masaüstü\\PROJELER\\ShopApp\\ShopApp.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\dilan\\OneDrive\\Masaüstü\\PROJELER\\ShopApp\\ShopApp.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\dilan\\OneDrive\\Masaüstü\\PROJELER\\ShopApp\\ShopApp.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\dilan\\OneDrive\\Masaüstü\\PROJELER\\ShopApp\\ShopApp.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\dilan\\OneDrive\\Masaüstü\\PROJELER\\ShopApp\\ShopApp.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\dilan\\OneDrive\\Masaüstü\\PROJELER\\ShopApp\\ShopApp.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\dilan\\OneDrive\\Masaüstü\\PROJELER\\ShopApp\\ShopApp.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\dilan\\OneDrive\\Masaüstü\\PROJELER\\ShopApp\\ShopApp.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\dilan\\OneDrive\\Masaüstü\\PROJELER\\ShopApp\\ShopApp.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\dilan\\OneDrive\\Masaüstü\\PROJELER\\ShopApp\\ShopApp.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\dilan\\OneDrive\\Masaüstü\\PROJELER\\ShopApp\\ShopApp.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\dilan\\OneDrive\\Masaüstü\\PROJELER\\ShopApp\\ShopApp.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\dilan\\OneDrive\\Masaüstü\\PROJELER\\ShopApp\\ShopApp.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\dilan\\OneDrive\\Masaüstü\\PROJELER\\ShopApp\\ShopApp.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\dilan\\OneDrive\\Masaüstü\\PROJELER\\ShopApp\\ShopApp.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\dilan\\OneDrive\\Masaüstü\\PROJELER\\ShopApp\\ShopApp.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\dilan\\OneDrive\\Masaüstü\\PROJELER\\ShopApp\\ShopApp.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\dilan\\OneDrive\\Masaüstü\\PROJELER\\ShopApp\\ShopApp.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\dilan\\OneDrive\\Masaüstü\\PROJELER\\ShopApp\\ShopApp.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\dilan\\OneDrive\\Masaüstü\\PROJELER\\ShopApp\\ShopApp.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\dilan\\OneDrive\\Masaüstü\\PROJELER\\ShopApp\\ShopApp.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\dilan\\OneDrive\\Masaüstü\\PROJELER\\ShopApp\\ShopApp.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\dilan\\OneDrive\\Masaüstü\\PROJELER\\ShopApp\\ShopApp.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\dilan\\OneDrive\\Masaüstü\\PROJELER\\ShopApp\\ShopApp.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\dilan\\OneDrive\\Masaüstü\\PROJELER\\ShopApp\\ShopApp.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\dilan\\OneDrive\\Masaüstü\\PROJELER\\ShopApp\\ShopApp.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\dilan\\OneDrive\\Masaüstü\\PROJELER\\ShopApp\\ShopApp.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\dilan\\OneDrive\\Masaüstü\\PROJELER\\ShopApp\\ShopApp.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\dilan\\OneDrive\\Masaüstü\\PROJELER\\ShopApp\\ShopApp.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\dilan\\OneDrive\\Masaüstü\\PROJELER\\ShopApp\\ShopApp.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\dilan\\OneDrive\\Masaüstü\\PROJELER\\ShopApp\\ShopApp.WebUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\dilan\\OneDrive\\Masaüstü\\PROJELER\\ShopApp\\ShopApp.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\dilan\\OneDrive\\Masaüstü\\PROJELER\\ShopApp\\ShopApp.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\dilan\\OneDrive\\Masaüstü\\PROJELER\\ShopApp\\ShopApp.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\dilan\\OneDrive\\Masaüstü\\PROJELER\\ShopApp\\ShopApp.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\dilan\\OneDrive\\Masaüstü\\PROJELER\\ShopApp\\ShopApp.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\dilan\\OneDrive\\Masaüstü\\PROJELER\\ShopApp\\ShopApp.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\dilan\\OneDrive\\Masaüstü\\PROJELER\\ShopApp\\ShopApp.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\dilan\\OneDrive\\Masaüstü\\PROJELER\\ShopApp\\ShopApp.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\dilan\\OneDrive\\Masaüstü\\PROJELER\\ShopApp\\ShopApp.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\dilan\\OneDrive\\Masaüstü\\PROJELER\\ShopApp\\ShopApp.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\dilan\\OneDrive\\Masaüstü\\PROJELER\\ShopApp\\ShopApp.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\dilan\\OneDrive\\Masaüstü\\PROJELER\\ShopApp\\ShopApp.WebUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\dilan\\OneDrive\\Masaüstü\\PROJELER\\ShopApp\\ShopApp.WebUI\\wwwroot\\lib\\ckeditor5-build-classic\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5-build-classic\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\dilan\\OneDrive\\Masaüstü\\PROJELER\\ShopApp\\ShopApp.WebUI\\wwwroot\\lib\\ckeditor5-build-classic\\README.md",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5-build-classic\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\dilan\\OneDrive\\Masaüstü\\PROJELER\\ShopApp\\ShopApp.WebUI\\wwwroot\\lib\\ckeditor5-build-classic\\ckeditor.d.ts",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5-build-classic\\ckeditor.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\dilan\\OneDrive\\Masaüstü\\PROJELER\\ShopApp\\ShopApp.WebUI\\wwwroot\\lib\\ckeditor5-build-classic\\ckeditor.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5-build-classic\\ckeditor.js"
+    },
+    {
+      "Id": "C:\\Users\\dilan\\OneDrive\\Masaüstü\\PROJELER\\ShopApp\\ShopApp.WebUI\\wwwroot\\lib\\ckeditor5-build-classic\\ckeditor.js.map",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5-build-classic\\ckeditor.js.map"
+    },
+    {
+      "Id": "C:\\Users\\dilan\\OneDrive\\Masaüstü\\PROJELER\\ShopApp\\ShopApp.WebUI\\wwwroot\\lib\\ckeditor5-build-classic\\index.html",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5-build-classic\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\dilan\\OneDrive\\Masaüstü\\PROJELER\\ShopApp\\ShopApp.WebUI\\wwwroot\\lib\\ckeditor5-build-classic\\sample\\css\\sample.css",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5-build-classic\\sample\\css\\sample.css"
+    },
+    {
+      "Id": "C:\\Users\\dilan\\OneDrive\\Masaüstü\\PROJELER\\ShopApp\\ShopApp.WebUI\\wwwroot\\lib\\ckeditor5-build-classic\\sample\\img\\bg.png",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5-build-classic\\sample\\img\\bg.png"
+    },
+    {
+      "Id": "C:\\Users\\dilan\\OneDrive\\Masaüstü\\PROJELER\\ShopApp\\ShopApp.WebUI\\wwwroot\\lib\\ckeditor5-build-classic\\sample\\img\\github.svg",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5-build-classic\\sample\\img\\github.svg"
+    },
+    {
+      "Id": "C:\\Users\\dilan\\OneDrive\\Masaüstü\\PROJELER\\ShopApp\\ShopApp.WebUI\\wwwroot\\lib\\ckeditor5-build-classic\\sample\\img\\logo.svg",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5-build-classic\\sample\\img\\logo.svg"
+    },
+    {
+      "Id": "C:\\Users\\dilan\\OneDrive\\Masaüstü\\PROJELER\\ShopApp\\ShopApp.WebUI\\wwwroot\\lib\\ckeditor5-build-classic\\sample\\img\\umbrellas.jpg",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5-build-classic\\sample\\img\\umbrellas.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dilan\\OneDrive\\Masaüstü\\PROJELER\\ShopApp\\ShopApp.WebUI\\wwwroot\\lib\\ckeditor5-build-classic\\translations\\af.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5-build-classic\\translations\\af.js"
+    },
+    {
+      "Id": "C:\\Users\\dilan\\OneDrive\\Masaüstü\\PROJELER\\ShopApp\\ShopApp.WebUI\\wwwroot\\lib\\ckeditor5-build-classic\\translations\\ar.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5-build-classic\\translations\\ar.js"
+    },
+    {
+      "Id": "C:\\Users\\dilan\\OneDrive\\Masaüstü\\PROJELER\\ShopApp\\ShopApp.WebUI\\wwwroot\\lib\\ckeditor5-build-classic\\translations\\ast.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5-build-classic\\translations\\ast.js"
+    },
+    {
+      "Id": "C:\\Users\\dilan\\OneDrive\\Masaüstü\\PROJELER\\ShopApp\\ShopApp.WebUI\\wwwroot\\lib\\ckeditor5-build-classic\\translations\\az.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5-build-classic\\translations\\az.js"
+    },
+    {
+      "Id": "C:\\Users\\dilan\\OneDrive\\Masaüstü\\PROJELER\\ShopApp\\ShopApp.WebUI\\wwwroot\\lib\\ckeditor5-build-classic\\translations\\bg.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5-build-classic\\translations\\bg.js"
+    },
+    {
+      "Id": "C:\\Users\\dilan\\OneDrive\\Masaüstü\\PROJELER\\ShopApp\\ShopApp.WebUI\\wwwroot\\lib\\ckeditor5-build-classic\\translations\\bn.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5-build-classic\\translations\\bn.js"
+    },
+    {
+      "Id": "C:\\Users\\dilan\\OneDrive\\Masaüstü\\PROJELER\\ShopApp\\ShopApp.WebUI\\wwwroot\\lib\\ckeditor5-build-classic\\translations\\bs.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5-build-classic\\translations\\bs.js"
+    },
+    {
+      "Id": "C:\\Users\\dilan\\OneDrive\\Masaüstü\\PROJELER\\ShopApp\\ShopApp.WebUI\\wwwroot\\lib\\ckeditor5-build-classic\\translations\\ca.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5-build-classic\\translations\\ca.js"
+    },
+    {
+      "Id": "C:\\Users\\dilan\\OneDrive\\Masaüstü\\PROJELER\\ShopApp\\ShopApp.WebUI\\wwwroot\\lib\\ckeditor5-build-classic\\translations\\cs.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5-build-classic\\translations\\cs.js"
+    },
+    {
+      "Id": "C:\\Users\\dilan\\OneDrive\\Masaüstü\\PROJELER\\ShopApp\\ShopApp.WebUI\\wwwroot\\lib\\ckeditor5-build-classic\\translations\\da.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5-build-classic\\translations\\da.js"
+    },
+    {
+      "Id": "C:\\Users\\dilan\\OneDrive\\Masaüstü\\PROJELER\\ShopApp\\ShopApp.WebUI\\wwwroot\\lib\\ckeditor5-build-classic\\translations\\de-ch.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5-build-classic\\translations\\de-ch.js"
+    },
+    {
+      "Id": "C:\\Users\\dilan\\OneDrive\\Masaüstü\\PROJELER\\ShopApp\\ShopApp.WebUI\\wwwroot\\lib\\ckeditor5-build-classic\\translations\\de.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5-build-classic\\translations\\de.js"
+    },
+    {
+      "Id": "C:\\Users\\dilan\\OneDrive\\Masaüstü\\PROJELER\\ShopApp\\ShopApp.WebUI\\wwwroot\\lib\\ckeditor5-build-classic\\translations\\el.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5-build-classic\\translations\\el.js"
+    },
+    {
+      "Id": "C:\\Users\\dilan\\OneDrive\\Masaüstü\\PROJELER\\ShopApp\\ShopApp.WebUI\\wwwroot\\lib\\ckeditor5-build-classic\\translations\\en-au.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5-build-classic\\translations\\en-au.js"
+    },
+    {
+      "Id": "C:\\Users\\dilan\\OneDrive\\Masaüstü\\PROJELER\\ShopApp\\ShopApp.WebUI\\wwwroot\\lib\\ckeditor5-build-classic\\translations\\en-gb.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5-build-classic\\translations\\en-gb.js"
+    },
+    {
+      "Id": "C:\\Users\\dilan\\OneDrive\\Masaüstü\\PROJELER\\ShopApp\\ShopApp.WebUI\\wwwroot\\lib\\ckeditor5-build-classic\\translations\\eo.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5-build-classic\\translations\\eo.js"
+    },
+    {
+      "Id": "C:\\Users\\dilan\\OneDrive\\Masaüstü\\PROJELER\\ShopApp\\ShopApp.WebUI\\wwwroot\\lib\\ckeditor5-build-classic\\translations\\es-co.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5-build-classic\\translations\\es-co.js"
+    },
+    {
+      "Id": "C:\\Users\\dilan\\OneDrive\\Masaüstü\\PROJELER\\ShopApp\\ShopApp.WebUI\\wwwroot\\lib\\ckeditor5-build-classic\\translations\\es.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5-build-classic\\translations\\es.js"
+    },
+    {
+      "Id": "C:\\Users\\dilan\\OneDrive\\Masaüstü\\PROJELER\\ShopApp\\ShopApp.WebUI\\wwwroot\\lib\\ckeditor5-build-classic\\translations\\et.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5-build-classic\\translations\\et.js"
+    },
+    {
+      "Id": "C:\\Users\\dilan\\OneDrive\\Masaüstü\\PROJELER\\ShopApp\\ShopApp.WebUI\\wwwroot\\lib\\ckeditor5-build-classic\\translations\\eu.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5-build-classic\\translations\\eu.js"
+    },
+    {
+      "Id": "C:\\Users\\dilan\\OneDrive\\Masaüstü\\PROJELER\\ShopApp\\ShopApp.WebUI\\wwwroot\\lib\\ckeditor5-build-classic\\translations\\fa.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5-build-classic\\translations\\fa.js"
+    },
+    {
+      "Id": "C:\\Users\\dilan\\OneDrive\\Masaüstü\\PROJELER\\ShopApp\\ShopApp.WebUI\\wwwroot\\lib\\ckeditor5-build-classic\\translations\\fi.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5-build-classic\\translations\\fi.js"
+    },
+    {
+      "Id": "C:\\Users\\dilan\\OneDrive\\Masaüstü\\PROJELER\\ShopApp\\ShopApp.WebUI\\wwwroot\\lib\\ckeditor5-build-classic\\translations\\fr.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5-build-classic\\translations\\fr.js"
+    },
+    {
+      "Id": "C:\\Users\\dilan\\OneDrive\\Masaüstü\\PROJELER\\ShopApp\\ShopApp.WebUI\\wwwroot\\lib\\ckeditor5-build-classic\\translations\\gl.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5-build-classic\\translations\\gl.js"
+    },
+    {
+      "Id": "C:\\Users\\dilan\\OneDrive\\Masaüstü\\PROJELER\\ShopApp\\ShopApp.WebUI\\wwwroot\\lib\\ckeditor5-build-classic\\translations\\gu.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5-build-classic\\translations\\gu.js"
+    },
+    {
+      "Id": "C:\\Users\\dilan\\OneDrive\\Masaüstü\\PROJELER\\ShopApp\\ShopApp.WebUI\\wwwroot\\lib\\ckeditor5-build-classic\\translations\\he.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5-build-classic\\translations\\he.js"
+    },
+    {
+      "Id": "C:\\Users\\dilan\\OneDrive\\Masaüstü\\PROJELER\\ShopApp\\ShopApp.WebUI\\wwwroot\\lib\\ckeditor5-build-classic\\translations\\hi.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5-build-classic\\translations\\hi.js"
+    },
+    {
+      "Id": "C:\\Users\\dilan\\OneDrive\\Masaüstü\\PROJELER\\ShopApp\\ShopApp.WebUI\\wwwroot\\lib\\ckeditor5-build-classic\\translations\\hr.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5-build-classic\\translations\\hr.js"
+    },
+    {
+      "Id": "C:\\Users\\dilan\\OneDrive\\Masaüstü\\PROJELER\\ShopApp\\ShopApp.WebUI\\wwwroot\\lib\\ckeditor5-build-classic\\translations\\hu.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5-build-classic\\translations\\hu.js"
+    },
+    {
+      "Id": "C:\\Users\\dilan\\OneDrive\\Masaüstü\\PROJELER\\ShopApp\\ShopApp.WebUI\\wwwroot\\lib\\ckeditor5-build-classic\\translations\\hy.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5-build-classic\\translations\\hy.js"
+    },
+    {
+      "Id": "C:\\Users\\dilan\\OneDrive\\Masaüstü\\PROJELER\\ShopApp\\ShopApp.WebUI\\wwwroot\\lib\\ckeditor5-build-classic\\translations\\id.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5-build-classic\\translations\\id.js"
+    },
+    {
+      "Id": "C:\\Users\\dilan\\OneDrive\\Masaüstü\\PROJELER\\ShopApp\\ShopApp.WebUI\\wwwroot\\lib\\ckeditor5-build-classic\\translations\\it.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5-build-classic\\translations\\it.js"
+    },
+    {
+      "Id": "C:\\Users\\dilan\\OneDrive\\Masaüstü\\PROJELER\\ShopApp\\ShopApp.WebUI\\wwwroot\\lib\\ckeditor5-build-classic\\translations\\ja.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5-build-classic\\translations\\ja.js"
+    },
+    {
+      "Id": "C:\\Users\\dilan\\OneDrive\\Masaüstü\\PROJELER\\ShopApp\\ShopApp.WebUI\\wwwroot\\lib\\ckeditor5-build-classic\\translations\\jv.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5-build-classic\\translations\\jv.js"
+    },
+    {
+      "Id": "C:\\Users\\dilan\\OneDrive\\Masaüstü\\PROJELER\\ShopApp\\ShopApp.WebUI\\wwwroot\\lib\\ckeditor5-build-classic\\translations\\km.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5-build-classic\\translations\\km.js"
+    },
+    {
+      "Id": "C:\\Users\\dilan\\OneDrive\\Masaüstü\\PROJELER\\ShopApp\\ShopApp.WebUI\\wwwroot\\lib\\ckeditor5-build-classic\\translations\\kn.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5-build-classic\\translations\\kn.js"
+    },
+    {
+      "Id": "C:\\Users\\dilan\\OneDrive\\Masaüstü\\PROJELER\\ShopApp\\ShopApp.WebUI\\wwwroot\\lib\\ckeditor5-build-classic\\translations\\ko.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5-build-classic\\translations\\ko.js"
+    },
+    {
+      "Id": "C:\\Users\\dilan\\OneDrive\\Masaüstü\\PROJELER\\ShopApp\\ShopApp.WebUI\\wwwroot\\lib\\ckeditor5-build-classic\\translations\\ku.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5-build-classic\\translations\\ku.js"
+    },
+    {
+      "Id": "C:\\Users\\dilan\\OneDrive\\Masaüstü\\PROJELER\\ShopApp\\ShopApp.WebUI\\wwwroot\\lib\\ckeditor5-build-classic\\translations\\lt.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5-build-classic\\translations\\lt.js"
+    },
+    {
+      "Id": "C:\\Users\\dilan\\OneDrive\\Masaüstü\\PROJELER\\ShopApp\\ShopApp.WebUI\\wwwroot\\lib\\ckeditor5-build-classic\\translations\\lv.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5-build-classic\\translations\\lv.js"
+    },
+    {
+      "Id": "C:\\Users\\dilan\\OneDrive\\Masaüstü\\PROJELER\\ShopApp\\ShopApp.WebUI\\wwwroot\\lib\\ckeditor5-build-classic\\translations\\ms.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5-build-classic\\translations\\ms.js"
+    },
+    {
+      "Id": "C:\\Users\\dilan\\OneDrive\\Masaüstü\\PROJELER\\ShopApp\\ShopApp.WebUI\\wwwroot\\lib\\ckeditor5-build-classic\\translations\\nb.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5-build-classic\\translations\\nb.js"
+    },
+    {
+      "Id": "C:\\Users\\dilan\\OneDrive\\Masaüstü\\PROJELER\\ShopApp\\ShopApp.WebUI\\wwwroot\\lib\\ckeditor5-build-classic\\translations\\ne.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5-build-classic\\translations\\ne.js"
+    },
+    {
+      "Id": "C:\\Users\\dilan\\OneDrive\\Masaüstü\\PROJELER\\ShopApp\\ShopApp.WebUI\\wwwroot\\lib\\ckeditor5-build-classic\\translations\\nl.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5-build-classic\\translations\\nl.js"
+    },
+    {
+      "Id": "C:\\Users\\dilan\\OneDrive\\Masaüstü\\PROJELER\\ShopApp\\ShopApp.WebUI\\wwwroot\\lib\\ckeditor5-build-classic\\translations\\no.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5-build-classic\\translations\\no.js"
+    },
+    {
+      "Id": "C:\\Users\\dilan\\OneDrive\\Masaüstü\\PROJELER\\ShopApp\\ShopApp.WebUI\\wwwroot\\lib\\ckeditor5-build-classic\\translations\\oc.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5-build-classic\\translations\\oc.js"
+    },
+    {
+      "Id": "C:\\Users\\dilan\\OneDrive\\Masaüstü\\PROJELER\\ShopApp\\ShopApp.WebUI\\wwwroot\\lib\\ckeditor5-build-classic\\translations\\pl.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5-build-classic\\translations\\pl.js"
+    },
+    {
+      "Id": "C:\\Users\\dilan\\OneDrive\\Masaüstü\\PROJELER\\ShopApp\\ShopApp.WebUI\\wwwroot\\lib\\ckeditor5-build-classic\\translations\\pt-br.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5-build-classic\\translations\\pt-br.js"
+    },
+    {
+      "Id": "C:\\Users\\dilan\\OneDrive\\Masaüstü\\PROJELER\\ShopApp\\ShopApp.WebUI\\wwwroot\\lib\\ckeditor5-build-classic\\translations\\pt.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5-build-classic\\translations\\pt.js"
+    },
+    {
+      "Id": "C:\\Users\\dilan\\OneDrive\\Masaüstü\\PROJELER\\ShopApp\\ShopApp.WebUI\\wwwroot\\lib\\ckeditor5-build-classic\\translations\\ro.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5-build-classic\\translations\\ro.js"
+    },
+    {
+      "Id": "C:\\Users\\dilan\\OneDrive\\Masaüstü\\PROJELER\\ShopApp\\ShopApp.WebUI\\wwwroot\\lib\\ckeditor5-build-classic\\translations\\ru.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5-build-classic\\translations\\ru.js"
+    },
+    {
+      "Id": "C:\\Users\\dilan\\OneDrive\\Masaüstü\\PROJELER\\ShopApp\\ShopApp.WebUI\\wwwroot\\lib\\ckeditor5-build-classic\\translations\\si.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5-build-classic\\translations\\si.js"
+    },
+    {
+      "Id": "C:\\Users\\dilan\\OneDrive\\Masaüstü\\PROJELER\\ShopApp\\ShopApp.WebUI\\wwwroot\\lib\\ckeditor5-build-classic\\translations\\sk.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5-build-classic\\translations\\sk.js"
+    },
+    {
+      "Id": "C:\\Users\\dilan\\OneDrive\\Masaüstü\\PROJELER\\ShopApp\\ShopApp.WebUI\\wwwroot\\lib\\ckeditor5-build-classic\\translations\\sl.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5-build-classic\\translations\\sl.js"
+    },
+    {
+      "Id": "C:\\Users\\dilan\\OneDrive\\Masaüstü\\PROJELER\\ShopApp\\ShopApp.WebUI\\wwwroot\\lib\\ckeditor5-build-classic\\translations\\sq.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5-build-classic\\translations\\sq.js"
+    },
+    {
+      "Id": "C:\\Users\\dilan\\OneDrive\\Masaüstü\\PROJELER\\ShopApp\\ShopApp.WebUI\\wwwroot\\lib\\ckeditor5-build-classic\\translations\\sr-latn.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5-build-classic\\translations\\sr-latn.js"
+    },
+    {
+      "Id": "C:\\Users\\dilan\\OneDrive\\Masaüstü\\PROJELER\\ShopApp\\ShopApp.WebUI\\wwwroot\\lib\\ckeditor5-build-classic\\translations\\sr.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5-build-classic\\translations\\sr.js"
+    },
+    {
+      "Id": "C:\\Users\\dilan\\OneDrive\\Masaüstü\\PROJELER\\ShopApp\\ShopApp.WebUI\\wwwroot\\lib\\ckeditor5-build-classic\\translations\\sv.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5-build-classic\\translations\\sv.js"
+    },
+    {
+      "Id": "C:\\Users\\dilan\\OneDrive\\Masaüstü\\PROJELER\\ShopApp\\ShopApp.WebUI\\wwwroot\\lib\\ckeditor5-build-classic\\translations\\th.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5-build-classic\\translations\\th.js"
+    },
+    {
+      "Id": "C:\\Users\\dilan\\OneDrive\\Masaüstü\\PROJELER\\ShopApp\\ShopApp.WebUI\\wwwroot\\lib\\ckeditor5-build-classic\\translations\\tk.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5-build-classic\\translations\\tk.js"
+    },
+    {
+      "Id": "C:\\Users\\dilan\\OneDrive\\Masaüstü\\PROJELER\\ShopApp\\ShopApp.WebUI\\wwwroot\\lib\\ckeditor5-build-classic\\translations\\tr.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5-build-classic\\translations\\tr.js"
+    },
+    {
+      "Id": "C:\\Users\\dilan\\OneDrive\\Masaüstü\\PROJELER\\ShopApp\\ShopApp.WebUI\\wwwroot\\lib\\ckeditor5-build-classic\\translations\\tt.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5-build-classic\\translations\\tt.js"
+    },
+    {
+      "Id": "C:\\Users\\dilan\\OneDrive\\Masaüstü\\PROJELER\\ShopApp\\ShopApp.WebUI\\wwwroot\\lib\\ckeditor5-build-classic\\translations\\ug.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5-build-classic\\translations\\ug.js"
+    },
+    {
+      "Id": "C:\\Users\\dilan\\OneDrive\\Masaüstü\\PROJELER\\ShopApp\\ShopApp.WebUI\\wwwroot\\lib\\ckeditor5-build-classic\\translations\\uk.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5-build-classic\\translations\\uk.js"
+    },
+    {
+      "Id": "C:\\Users\\dilan\\OneDrive\\Masaüstü\\PROJELER\\ShopApp\\ShopApp.WebUI\\wwwroot\\lib\\ckeditor5-build-classic\\translations\\ur.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5-build-classic\\translations\\ur.js"
+    },
+    {
+      "Id": "C:\\Users\\dilan\\OneDrive\\Masaüstü\\PROJELER\\ShopApp\\ShopApp.WebUI\\wwwroot\\lib\\ckeditor5-build-classic\\translations\\uz.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5-build-classic\\translations\\uz.js"
+    },
+    {
+      "Id": "C:\\Users\\dilan\\OneDrive\\Masaüstü\\PROJELER\\ShopApp\\ShopApp.WebUI\\wwwroot\\lib\\ckeditor5-build-classic\\translations\\vi.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5-build-classic\\translations\\vi.js"
+    },
+    {
+      "Id": "C:\\Users\\dilan\\OneDrive\\Masaüstü\\PROJELER\\ShopApp\\ShopApp.WebUI\\wwwroot\\lib\\ckeditor5-build-classic\\translations\\zh-cn.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5-build-classic\\translations\\zh-cn.js"
+    },
+    {
+      "Id": "C:\\Users\\dilan\\OneDrive\\Masaüstü\\PROJELER\\ShopApp\\ShopApp.WebUI\\wwwroot\\lib\\ckeditor5-build-classic\\translations\\zh.js",
+      "PackagePath": "staticwebassets\\lib\\ckeditor5-build-classic\\translations\\zh.js"
+    },
+    {
+      "Id": "C:\\Users\\dilan\\OneDrive\\Masaüstü\\PROJELER\\ShopApp\\ShopApp.WebUI\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\dilan\\OneDrive\\Masaüstü\\PROJELER\\ShopApp\\ShopApp.WebUI\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\dilan\\OneDrive\\Masaüstü\\PROJELER\\ShopApp\\ShopApp.WebUI\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\dilan\\OneDrive\\Masaüstü\\PROJELER\\ShopApp\\ShopApp.WebUI\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\dilan\\OneDrive\\Masaüstü\\PROJELER\\ShopApp\\ShopApp.WebUI\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\dilan\\OneDrive\\Masaüstü\\PROJELER\\ShopApp\\ShopApp.WebUI\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\dilan\\OneDrive\\Masaüstü\\PROJELER\\ShopApp\\ShopApp.WebUI\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\dilan\\OneDrive\\Masaüstü\\PROJELER\\ShopApp\\ShopApp.WebUI\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\dilan\\OneDrive\\Masaüstü\\PROJELER\\ShopApp\\ShopApp.WebUI\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\dilan\\OneDrive\\Masaüstü\\PROJELER\\ShopApp\\ShopApp.WebUI\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\dilan\\OneDrive\\Masaüstü\\PROJELER\\ShopApp\\ShopApp.WebUI\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\dilan\\OneDrive\\Masaüstü\\PROJELER\\ShopApp\\ShopApp.WebUI\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.ShopApp.WebUI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.ShopApp.WebUI.props",
+      "PackagePath": "build\\ShopApp.WebUI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.ShopApp.WebUI.props",
+      "PackagePath": "buildMultiTargeting\\ShopApp.WebUI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.ShopApp.WebUI.props",
+      "PackagePath": "buildTransitive\\ShopApp.WebUI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

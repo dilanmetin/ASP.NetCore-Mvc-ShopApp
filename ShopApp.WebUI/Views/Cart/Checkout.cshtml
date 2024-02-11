@@ -1,0 +1,132 @@
+﻿@model OrderModel
+<h1>Checkout</h1>
+<hr />
+<div class="row">
+    <div class="col-md-8">
+
+        <h4 class="mb-3">Order Details</h4>
+        <form method="post" asp-controller="Cart" asp-action="Checkout">
+            <input type="hidden" name="cardId" value="0"  / >
+            <div class="row mb-3">
+                <div class="col-md-6">
+                    <label asp-for="@Model.FirstName"></label>
+                    <input asp-for="@Model.FirstName" class="form-control" />
+                </div>
+                <div class="col-md-6">
+                    <label asp-for ="@Model.LastName"></label>
+                    <input asp-for="@Model.LastName" class="form-control" />
+                </div>
+            </div>
+            <div class="mb-3">
+                <label asp-for="@Model.Address"></label>
+                <textarea asp-for="@Model.Address" class="form-control"></textarea>
+            </div>
+            <div class="row mb-3">
+                <div class="col-md-4">
+                    <label asp-for="@Model.City"></label>
+                    <input asp-for="@Model.City" class="form-control" />
+                </div>
+                <div class="col-md-4">
+                    <label asp-for="@Model.Phone"></label>
+                    <input asp-for="@Model.Phone" class="form-control" />
+                </div>
+                <div class="col-md-4">
+                    <label asp-for="@Model.Email"></label>
+                    <input asp-for="@Model.Email" class="form-control" />
+                </div>
+            </div>
+            <h4 class="mb-3">Payment</h4>
+
+            <hr class="mb-3"/>
+            <div class="row mb-3">
+                <div class="col-md-6">
+                    <label asp-for="@Model.CardName"></label>
+                    <input asp-for="@Model.CardName" class="form-control" id="name" placeholder="Ad Soyad" />
+                </div>
+                <div class="col-md-6">
+                    <label asp-for="@Model.CardNumber"></label>
+                    <input asp-for="@Model.CardNumber" class="form-control" type="text" id="card-number" placeholder="Card Number" />
+                </div>
+                
+            </div>
+            <div class="row mb-3">
+                <div class="col-md-4">
+                    <label asp-for="@Model.ExpirationMonth"></label>
+                    <input asp-for="@Model.ExpirationMonth" class="form-control" type="text" id="exp-month" placeholder="Expiration Month" />
+                </div>
+                <div class="col-md-4">
+                    <label asp-for="@Model.ExpirationYear"></label>
+                    <input asp-for="@Model.ExpirationYear" class="form-control" type="text" id="exp-year" placeholder="Expiration Year" />
+                </div>
+                <div class="col-md-4">
+                    <label asp-for="@Model.Cvc"></label>
+                    <input asp-for="@Model.Cvc" class="form-control" type="text" id="cvv" placeholder="CVV" />
+                </div>
+
+            </div>
+            <button type="submit" class="btn btn-primary btn-lg btn-block">Submit</button>
+        </form>
+    </div>
+    <div class="col-md-4 ">
+        <h4 class="mb-3">
+            <span>Summary Information</span>
+        </h4>
+            <ul class="list-group mb-3">
+            @foreach (var item in Model.CartModel.CartItems)
+            {
+                <li class="list-group-item d-flex justify-content-between">
+                    <div>
+                        <h6>@item.Name</h6>
+                       
+                    </div>
+                    <span class="text-muted">@((item.Price * item.Quantity).ToString("c"))</span>
+                </li>
+                
+            }
+
+                <li class="list-group-item d-flex justify-content-between">
+                    <span>Total (TL)</span>
+                    <strong>@Model.CartModel.TotalPrice().ToString("c") </strong>
+                </li>
+            </ul>
+
+           @*card*@
+
+        <div class="card card2 ">
+            <div class="card__front card__part">
+                <img class="card__front-square card__square" width="50"  src="/img/card-chip.png">
+              
+                <p class="card_numer number"></p>
+                <div class="card__space-75">
+                    <div class="card__label  ">Card holder</div>
+                    <span class="card__info card-name"></span>
+                </div>
+                <div class="card__space-25 ">
+                    <div class="card__label text-center">Expires</div>
+                    
+                    <span class="card__info month"></span> / <span class="card__info year"></span>
+                    
+                </div>
+            </div>
+
+            <div class="card__back card__part">
+                <div class="card__black-line"></div>
+                <div class="card__back-content">
+                    <div class="card__secret">
+                        <p class="card__secret--last cvv"></p>
+                    </div>
+                 
+
+                </div>
+            </div>
+
+        </div>
+
+        @*card*@
+   
+    </div>
+</div>
+
+<script src="/js/site.js">
+    
+</script>

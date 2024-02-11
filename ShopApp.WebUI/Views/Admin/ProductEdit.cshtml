@@ -1,0 +1,111 @@
+﻿@model ProductModel
+
+<h1 class="h3">Edit Product</h1>
+<hr />
+
+<form asp-controller="Admin" asp-action="ProductEdit" method="POST" enctype="multipart/form-data">
+
+    <div class="col-md-12">
+        <div asp-validation-summary="All" class="text-danger"></div>
+    </div>
+
+    <div class="row">
+        <div class="col-md-8">
+                <input  type="hidden" name="ProductId" value="@Model.ProductId"/>
+                <div class="mb-3 row">
+                    <label asp-for="Name" class="col-sm-2 col-form-label">Name</label>
+
+                    <div class="col-sm-10">
+                        <input class="form-control" asp-for="Name">
+                     <span asp-validation-for="Name" class="text-danger"></span>
+
+                    </div>
+                </div>
+                <div class="mb-3 row">
+                    <label asp-for="Url" class="col-sm-2 col-form-label">Url</label>
+
+                    <div class="col-sm-10">
+                        <input class="form-control" asp-for="Url">
+                        <span asp-validation-for="Url" class="text-danger"></span>
+
+                    </div>
+                </div>
+                <div class="mb-3 row">
+                    <label asp-for="Description" class="col-sm-2 col-form-label">Description</label>
+
+                    <div class="col-sm-10">
+                        <textarea id="editor" class="form-control" asp-for="Description"></textarea>
+                        <span asp-validation-for="Description" class="text-danger"></span>
+
+                    </div>
+                </div>
+                <div class="mb-3 row">
+                    <label asp-for="ImageUrl" class="col-sm-2 col-form-label">ImageUrl</label>
+                    <div class="col-sm-10">
+                        <input  asp-for="ImageUrl" type="hidden">
+                        <img src="/img/@Model.ImageUrl" width="80" />
+                        <input type="file" name="file" />
+
+                    </div>
+                </div>
+                <div class="mb-3 row">
+                    <label asp-for="Price" class="col-sm-2 col-form-label">Price</label>
+
+                    <div class="col-sm-10">
+                        <input class="form-control" asp-for="Price">
+                        <span asp-validation-for="Price" class="text-danger"></span>
+
+                    </div>
+                </div>
+                <div class="mb-3 row">
+                    <div class="col-sm-10 offset-sm-2">
+                        <button type="submit" class="btn btn-success">Save Product</button>
+                    </div>
+                </div>
+        
+        </div>
+        <div class="col-md-4">
+            @for (int i=0; i < Model.SelectedCategories.Count; i++)
+            {
+                <input type="hidden" name="SelectedCategories[@i].CategoryId" value="@Model.SelectedCategories[@i].CategoryId" />
+                <input type="hidden" name="SelectedCategories[@i].Name" value="@Model.SelectedCategories[@i].Name" />
+            }
+
+            @foreach(var item in (List<Category>)ViewBag.Categories)
+            {
+                <div class="form-check">
+                    <input class="form-check-input" type="checkbox" name="categoryIds" value="@item.CategoryId" id="category_@(item.CategoryId)" @(Model.SelectedCategories.Any(i=>i.CategoryId==item.CategoryId)?"checked":"")>
+                    <label class="form-check-label" for="category_(@item.CategoryId)">
+                        @item.Name
+                    </label>
+                </div>
+            }
+            <hr />
+            <div class="form-check">
+                <input class="form-check-input" type="checkbox" asp-for="IsApproved" >
+                <label class="form-check-label" asp-for="IsApproved"></label>
+            </div>
+            <div class="form-check">
+                <input class="form-check-input" type="checkbox" asp-for="IsHome">
+                <label class="form-check-label" asp-for="IsHome"></label>
+            </div>
+        </div>
+    </div>
+</form>
+
+@section Scripts{
+    <script src="/lib/jquery-validation/dist/jquery.validate.min.js"></script>
+    <script src="~/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"></script>
+    <script src="~/lib/ckeditor5-build-classic/ckeditor.js"></script>
+    <link rel="stylesheet" type="text/css" href="/css/site.css" />
+
+
+
+    <script>
+        ClassicEditor
+            .create(document.querySelector('#editor'))
+            .catch(error => {
+                console.error(error);
+            });
+    </script>
+}

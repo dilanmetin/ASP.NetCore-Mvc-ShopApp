@@ -1,0 +1,12 @@
+C:\Users\dilan\OneDrive\Masaüstü\PROJELER\ShopApp\ShopApp.Entity\bin\Debug\net6.0\ShopApp.Entity.deps.json
+C:\Users\dilan\OneDrive\Masaüstü\PROJELER\ShopApp\ShopApp.Entity\bin\Debug\net6.0\ShopApp.Entity.dll
+C:\Users\dilan\OneDrive\Masaüstü\PROJELER\ShopApp\ShopApp.Entity\bin\Debug\net6.0\ShopApp.Entity.pdb
+C:\Users\dilan\OneDrive\Masaüstü\PROJELER\ShopApp\ShopApp.Entity\obj\Debug\net6.0\ShopApp.Entity.csproj.AssemblyReference.cache
+C:\Users\dilan\OneDrive\Masaüstü\PROJELER\ShopApp\ShopApp.Entity\obj\Debug\net6.0\ShopApp.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dilan\OneDrive\Masaüstü\PROJELER\ShopApp\ShopApp.Entity\obj\Debug\net6.0\ShopApp.Entity.AssemblyInfoInputs.cache
+C:\Users\dilan\OneDrive\Masaüstü\PROJELER\ShopApp\ShopApp.Entity\obj\Debug\net6.0\ShopApp.Entity.AssemblyInfo.cs
+C:\Users\dilan\OneDrive\Masaüstü\PROJELER\ShopApp\ShopApp.Entity\obj\Debug\net6.0\ShopApp.Entity.csproj.CoreCompileInputs.cache
+C:\Users\dilan\OneDrive\Masaüstü\PROJELER\ShopApp\ShopApp.Entity\obj\Debug\net6.0\ShopApp.Entity.dll
+C:\Users\dilan\OneDrive\Masaüstü\PROJELER\ShopApp\ShopApp.Entity\obj\Debug\net6.0\refint\ShopApp.Entity.dll
+C:\Users\dilan\OneDrive\Masaüstü\PROJELER\ShopApp\ShopApp.Entity\obj\Debug\net6.0\ShopApp.Entity.pdb
+C:\Users\dilan\OneDrive\Masaüstü\PROJELER\ShopApp\ShopApp.Entity\obj\Debug\net6.0\ref\ShopApp.Entity.dll

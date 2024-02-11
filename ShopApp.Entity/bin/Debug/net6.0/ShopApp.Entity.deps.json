@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ShopApp.Entity/1.0.0": {
+        "runtime": {
+          "ShopApp.Entity.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ShopApp.Entity/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

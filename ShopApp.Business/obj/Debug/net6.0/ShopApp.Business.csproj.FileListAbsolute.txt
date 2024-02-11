@@ -1,0 +1,17 @@
+C:\Users\dilan\OneDrive\Masaüstü\PROJELER\ShopApp\ShopApp.Business\bin\Debug\net6.0\ShopApp.Business.deps.json
+C:\Users\dilan\OneDrive\Masaüstü\PROJELER\ShopApp\ShopApp.Business\bin\Debug\net6.0\ShopApp.Business.dll
+C:\Users\dilan\OneDrive\Masaüstü\PROJELER\ShopApp\ShopApp.Business\bin\Debug\net6.0\ShopApp.Business.pdb
+C:\Users\dilan\OneDrive\Masaüstü\PROJELER\ShopApp\ShopApp.Business\bin\Debug\net6.0\ShopApp.DataAccess.dll
+C:\Users\dilan\OneDrive\Masaüstü\PROJELER\ShopApp\ShopApp.Business\bin\Debug\net6.0\ShopApp.Entity.dll
+C:\Users\dilan\OneDrive\Masaüstü\PROJELER\ShopApp\ShopApp.Business\bin\Debug\net6.0\ShopApp.Entity.pdb
+C:\Users\dilan\OneDrive\Masaüstü\PROJELER\ShopApp\ShopApp.Business\bin\Debug\net6.0\ShopApp.DataAccess.pdb
+C:\Users\dilan\OneDrive\Masaüstü\PROJELER\ShopApp\ShopApp.Business\obj\Debug\net6.0\ShopApp.Business.csproj.AssemblyReference.cache
+C:\Users\dilan\OneDrive\Masaüstü\PROJELER\ShopApp\ShopApp.Business\obj\Debug\net6.0\ShopApp.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dilan\OneDrive\Masaüstü\PROJELER\ShopApp\ShopApp.Business\obj\Debug\net6.0\ShopApp.Business.AssemblyInfoInputs.cache
+C:\Users\dilan\OneDrive\Masaüstü\PROJELER\ShopApp\ShopApp.Business\obj\Debug\net6.0\ShopApp.Business.AssemblyInfo.cs
+C:\Users\dilan\OneDrive\Masaüstü\PROJELER\ShopApp\ShopApp.Business\obj\Debug\net6.0\ShopApp.Business.csproj.CoreCompileInputs.cache
+C:\Users\dilan\OneDrive\Masaüstü\PROJELER\ShopApp\ShopApp.Business\obj\Debug\net6.0\ShopApp.Business.csproj.CopyComplete
+C:\Users\dilan\OneDrive\Masaüstü\PROJELER\ShopApp\ShopApp.Business\obj\Debug\net6.0\ShopApp.Business.dll
+C:\Users\dilan\OneDrive\Masaüstü\PROJELER\ShopApp\ShopApp.Business\obj\Debug\net6.0\refint\ShopApp.Business.dll
+C:\Users\dilan\OneDrive\Masaüstü\PROJELER\ShopApp\ShopApp.Business\obj\Debug\net6.0\ShopApp.Business.pdb
+C:\Users\dilan\OneDrive\Masaüstü\PROJELER\ShopApp\ShopApp.Business\obj\Debug\net6.0\ref\ShopApp.Business.dll

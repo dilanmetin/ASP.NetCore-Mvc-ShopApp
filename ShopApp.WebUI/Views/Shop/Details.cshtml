@@ -1,0 +1,56 @@
+﻿@model ProductDetailModel
+
+        <div class="row no-gutters">
+            <div class="col-md-3">
+                <img src="~/img/@Model.Product.ImageUrl" class="img-fluid">
+            </div>
+            <div class="col-md-9">
+        <h1 class="mb-3">  @Model.Product.Name</h1> <hr />
+
+        @foreach(var item in Model.Categories)
+        {
+            <a asp-controller="shop" asp-action="list" asp-route-category="@item.Url" class="btn btn-link p-0 mb-3"> @item.Name </a>
+
+        }
+            <div class="mb-3">
+
+            <p class="p-1">  @Html.Raw(Model.Product.Description)</p>
+
+
+            <h4 class="text-primary mb-3">@Model.Product.Price  <i class="fa-solid fa-turkish-lira-sign"></i> </h4>
+            <form asp-controller="cart" asp-action="AddToCart" method="POST" class="form-inline">
+                <input type="hidden" name="productId" value="@Model.Product.ProductId">
+                <div class="input-group mb-3">
+                    <input type="number" name="quantity" class="form-control" value="1" min="1" step="1" style="width:50px;" >
+                    <div class="input-group-append">
+                        <button type="submit" class="btn btn-outline-success">
+                            <i class="fas fa-cart-plus"></i>Add To Cart
+                        </button>
+                      
+                    </div>
+                </div>
+                
+            </form>
+            
+            <button type="submit" class="btn btn-outline-danger">
+                <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-heart" viewBox="0 0 16 16">
+                    <path d="m8 2.748-.717-.737C5.6.281 2.514.878 1.4 3.053c-.523 1.023-.641 2.5.314 4.385.92 1.815 2.834 3.989 6.286 6.357 3.452-2.368 5.365-4.542 6.286-6.357.955-1.886.838-3.362.314-4.385C13.486.878 10.4.28 8.717 2.01zM8 15C-7.333 4.868 3.279-3.04 7.824 1.143c.06.055.119.112.176.171a3.12 3.12 0 0 1 .176-.17C12.72-3.042 23.333 4.867 8 15"></path>
+                </svg>
+                Add Favorites
+            </button>
+
+                 </div>
+                
+            </div>
+
+        </div>
+
+
+@section Scripts
+    {
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css" integrity="sha512-z3gLpd7yknf1YoNbCzqRKc4qyor8gaKU1qmn+CShxbuBusANI9QpRohGBreCFkKxLhei6S9CQXFEbbKuqLg0DA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+    <link rel="stylesheet" type="text/css" href="/css/site.css" />
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL" crossorigin="anonymous"></script>
+    
+}

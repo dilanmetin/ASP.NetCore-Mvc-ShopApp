@@ -1,0 +1,86 @@
+﻿
+<nav class="navbar navbar-expand-sm">
+    <div class="container-fluid  purple ">
+        
+            <a href="/" class="navbar-brand">
+               BEAUTY
+            </a>
+            <button class="navbar-toggler"
+                    type="button"
+                    data-bs-toggle="collapse"
+                    data-bs-target="#navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+        <div class="navigate justify-content-between topBotomBordersIn collapse navbar-collapse " id="navigation">
+            
+                <ul class="navbar-nav nav mr-auto">
+                    <li class="nav-item">
+                        <a href="/products" class="nav-link">Products</a>
+                    </li>
+                @if (User.Identity.IsAuthenticated)
+                {
+                    <li class="nav-item">
+                        <a href="/cart" class="nav-link">Cart</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="/orders" class="nav-link">Orders</a>
+                    </li>
+                    @if (User.IsInRole("admin")){
+                        <li class="nav-item">
+                            <a asp-controller="admin" asp-action="productlist" class="nav-link">Admin Products</a>
+                        </li>
+                        <li class="nav-item">
+                            <a asp-controller="admin" asp-action="categories" class="nav-link">Admin Categories</a>
+                        </li>
+                        <li class="nav-item">
+                            <a asp-controller="Admin" asp-action="RoleList" class="nav-link">Roles</a>
+                        </li>
+                        <li class="nav-item">
+                            <a asp-controller="Admin" asp-action="UserList" class="nav-link">Users</a>
+                        </li>
+                    }
+                    
+                }
+                </ul>
+            <div class="d-flex ">
+                <div class="">
+                    <form action="/search" class="d-flex form-inline">
+                        <input class="form-control " type="text" name="q" placeholder="Search" aria-label="Search">
+                        <button class="btn btn-outline-light " type="submit"><i class="fa-solid fa-magnifying-glass"></i></button>
+                    </form>
+                </div>
+
+            <ul class="navbar-nav nav ml-auto">
+                @if (User.Identity.IsAuthenticated)
+                {
+                    <li class="nav-item">
+                        <a href="/account/manage" class="nav-link">@User.Identity.Name</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="/account/logout" class="nav-link">Logout</a>
+                    </li>
+                }
+                else
+                {
+                    <li class="nav-item">
+                            <a href="/account/login" style="color:#ECA869;" class="nav-link"><i class="fa-regular fa-user fa-xl"></i> Login</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="/account/Register" class="nav-link">Register</a>
+                    </li>
+                }
+            </ul>
+          
+         </div>
+        
+
+            @*
+            <div class="d-flex " style="color:#FFF;">
+                <a href="/home/Login" class="btn" style="color:#ECA869;"><i class="fa-regular fa-user fa-xl"></i> Login </a>
+                <a class="btn"><i class="fa-sharp fa-solid fa-cart-shopping fa-xl" style="color:#ECA869;"></i></a>
+            </div>
+         </div>*@
+                
+    </div>
+</nav>
+

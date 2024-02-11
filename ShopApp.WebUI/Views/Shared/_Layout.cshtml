@@ -1,0 +1,39 @@
+﻿
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    @RenderSection("Css",false)
+    <link rel="stylesheet" href="~/css/site.css">
+    <link href="https://fonts.googleapis.com/css2?family=Lato&family=Open+Sans&family=Roboto&display=swap" rel="stylesheet">
+    <title>Document</title>
+</head>
+<body>
+
+    @await Html.PartialAsync("_navbar")
+
+    <main class="my-3 ">
+        <div class="container">
+            @if (TempData["message"] != null)
+                {
+                   <partial name="_ResultMessage" model="@(TempData.Get<AlertMessage>("message"))"></partial>             
+
+                }
+            @RenderBody()           
+        </div>
+    </main>
+
+    <footer class="  bg-light text-center text-white">
+        @await Html.PartialAsync("_footer")
+    </footer>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css" integrity="sha512-z3gLpd7yknf1YoNbCzqRKc4qyor8gaKU1qmn+CShxbuBusANI9QpRohGBreCFkKxLhei6S9CQXFEbbKuqLg0DA==" crossorigin="anonymous" referrerpolicy="no-referrer" />   
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    <script src="https://code.jquery.com/jquery-3.7.1.js" integrity="sha256-eKhayi8LEQwp4NKxN+CfCh+3qOVUtJn3QNZ0TciWLP4=" crossorigin="anonymous"></script>
+
+    @RenderSection("Scripts",false)
+</body>
+</html>

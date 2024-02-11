@@ -1,0 +1,17 @@
+C:\Users\dilan\OneDrive\Masaüstü\PROJELER\ShopApp\ShopApp.DataAccess\bin\Debug\net6.0\ShopApp.DataAccess.deps.json
+C:\Users\dilan\OneDrive\Masaüstü\PROJELER\ShopApp\ShopApp.DataAccess\bin\Debug\net6.0\ShopApp.DataAccess.runtimeconfig.json
+C:\Users\dilan\OneDrive\Masaüstü\PROJELER\ShopApp\ShopApp.DataAccess\bin\Debug\net6.0\ShopApp.DataAccess.dll
+C:\Users\dilan\OneDrive\Masaüstü\PROJELER\ShopApp\ShopApp.DataAccess\bin\Debug\net6.0\ShopApp.DataAccess.pdb
+C:\Users\dilan\OneDrive\Masaüstü\PROJELER\ShopApp\ShopApp.DataAccess\bin\Debug\net6.0\ShopApp.Entity.dll
+C:\Users\dilan\OneDrive\Masaüstü\PROJELER\ShopApp\ShopApp.DataAccess\bin\Debug\net6.0\ShopApp.Entity.pdb
+C:\Users\dilan\OneDrive\Masaüstü\PROJELER\ShopApp\ShopApp.DataAccess\obj\Debug\net6.0\ShopApp.DataAccess.csproj.AssemblyReference.cache
+C:\Users\dilan\OneDrive\Masaüstü\PROJELER\ShopApp\ShopApp.DataAccess\obj\Debug\net6.0\ShopApp.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dilan\OneDrive\Masaüstü\PROJELER\ShopApp\ShopApp.DataAccess\obj\Debug\net6.0\ShopApp.DataAccess.AssemblyInfoInputs.cache
+C:\Users\dilan\OneDrive\Masaüstü\PROJELER\ShopApp\ShopApp.DataAccess\obj\Debug\net6.0\ShopApp.DataAccess.AssemblyInfo.cs
+C:\Users\dilan\OneDrive\Masaüstü\PROJELER\ShopApp\ShopApp.DataAccess\obj\Debug\net6.0\ShopApp.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\dilan\OneDrive\Masaüstü\PROJELER\ShopApp\ShopApp.DataAccess\obj\Debug\net6.0\ShopApp.DataAccess.csproj.CopyComplete
+C:\Users\dilan\OneDrive\Masaüstü\PROJELER\ShopApp\ShopApp.DataAccess\obj\Debug\net6.0\ShopApp.DataAccess.dll
+C:\Users\dilan\OneDrive\Masaüstü\PROJELER\ShopApp\ShopApp.DataAccess\obj\Debug\net6.0\refint\ShopApp.DataAccess.dll
+C:\Users\dilan\OneDrive\Masaüstü\PROJELER\ShopApp\ShopApp.DataAccess\obj\Debug\net6.0\ShopApp.DataAccess.pdb
+C:\Users\dilan\OneDrive\Masaüstü\PROJELER\ShopApp\ShopApp.DataAccess\obj\Debug\net6.0\ShopApp.DataAccess.genruntimeconfig.cache
+C:\Users\dilan\OneDrive\Masaüstü\PROJELER\ShopApp\ShopApp.DataAccess\obj\Debug\net6.0\ref\ShopApp.DataAccess.dll
