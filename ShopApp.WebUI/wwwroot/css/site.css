@@ -229,3 +229,11 @@ div.topBotomBordersIn a:hover {
     -webkit-transform: rotateY(0deg);
     -moz-transform: rotateY(0deg);
 }
+.card.is-flipped .card__front {
+    -webkit-transform: rotateY(180deg);
+    -moz-transform: rotateY(180deg);
+}
+.card.is-flipped .card__back {
+    -webkit-transform: rotateY(0deg);
+    -moz-transform: rotateY(0deg);
+}
