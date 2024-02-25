@@ -29,4 +29,13 @@ $(document).ready(function () {
         var cvv = $("#cvv").val();
         $(".cvv").text(cvv)
     });
+    
+     $("#cvv").focus(function () {
+        $(".card").addClass("is-flipped");
+
+    });
+    $("#cvv").blur(function () {
+        $(".card").removeClass("is-flipped");
+
+    });
 });
